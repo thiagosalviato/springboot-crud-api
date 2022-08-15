@@ -1,12 +1,14 @@
 # springboot-crud-demo
 
-Spring Boot CRUD demo is demonstrating how to implement simple CRUD operations with a `Product` entity.
+Spring Boot CRUD demo is demonstrating how to implement simple CRUD operations with a `Employee` entity.
 
 ## What's inside
 This project is based on the [Spring Boot](http://projects.spring.io/spring-boot/) project and uses these packages :
 - Maven
 - Spring Core
 - Spring Data (Hibernate & MySQL)
+- Spring Web
+- MySQL Driver
 - Spring MVC (Tomcat)
 - [Thymleaf](https://thymeleaf.org)
 
